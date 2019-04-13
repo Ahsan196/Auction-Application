@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">BiddingApplication</string>
+    <string name="InputUserID">Enter User Email</string>
+    <string name="passw">Enter User Password</string>
+    <string name="LoginLabel">Login</string>
+    <string name="New">Are you new? Sign Up</string>
+    <string name="signup">Sign Up</string>
+    <string name="CrcAcc">Create Account</string>
+    <string name="userName">Enter User Name</string>
+    <string name="useraddress">Enter User Address</string>
+    <string name="userphoneNo">Enter Contact No</string>
+    <string name="productName">Enter Product Name</string>
+    <string name="productprice">Enter Product Price</string>
+    <string name="bidTime">Enter Bidding Time You Want</string>
+    <string name="ProDesc">Enter Product Description</string>
+    <string-array name="Options">
+        <item>Bid Now</item><!--products that are currently available for bidding-->
+        <item>View Transactions</item>
+        <item>My Bidding History</item>
+        <item>Bid Catalouge</item>
+    </string-array>
+    <string-array name="First_Sub_Options">
+        <item>Place Bid</item><!--products that are currently available for bidding-->
+        <item>Buy Product</item>
+    </string-array>
+    <string-array name="Second_Sub_Options">
+        <item>Received Transactions</item><!--products that are currently available for bidding-->
+        <item>My Transactions</item>
+    </string-array>
+    <string-array name="Third_Sub_Options">
+        <item>Placed Bidding</item><!--products that are currently available for bidding-->
+        <item>Bought Products</item>
+    </string-array>
+    <string-array name="Fourth_Sub_Options">
+        <item>Furniture</item><!--products that are currently available for bidding-->
+        <item>Technology</item>
+    </string-array>
+</resources>
